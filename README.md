@@ -1,6 +1,6 @@
 # Biometric Fingerprint Security System
 
-This project is a biometric fingerprint security system designed to enhance security and accessibility in sensitive areas, such as libraries, offices, and gyms. By replacing traditional physical keys and magnetic cards—which can be lost, duplicated, or damaged—the system offers a reliable, secure, and convenient fingerprint-based access solution.
+This project is a biometric fingerprint security system designed to enhance security and accessibility in sensitive areas, such as libraries, offices, and gyms. By replacing traditional physical keys and magnetic cards - which can be lost, duplicated, or damaged - the system offers a reliable, secure, and convenient fingerprint-based access solution.
 
 ## Overview
 The fingerprint system authenticates users through a fingerprint sensor, allowing access to authorized individuals only. With a user-friendly interface and efficient control process, this system is suitable for a variety of applications where controlled access is essential.
